@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.7",
   "name": "@dpuse/dpuse-connector-template",
   "dependencies": {
     "@dpuse/dpuse-shared": {
