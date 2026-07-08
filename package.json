@@ -1,6 +1,6 @@
 {
     "name": "@dpuse/dpuse-connector-google-drive",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "private": false,
     "description": "Template scaffold for building new DPUse connectors.",
     "license": "MIT",
