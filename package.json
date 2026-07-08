@@ -1,6 +1,6 @@
 {
     "name": "@dpuse/dpuse-connector-google-drive",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "private": false,
     "description": "Provides access to Google Drive account(s) for file upload and download.",
     "license": "MIT",
@@ -60,7 +60,7 @@
         "@dpuse/dpuse-shared": "^0.3.737"
     },
     "devDependencies": {
-        "@dpuse/dpuse-development": "^0.3.683",
+        "@dpuse/dpuse-development": "^0.3.684",
         "@dpuse/eslint-config-dpuse": "^1.0.108",
         "@types/node": "^26.1.1",
         "eslint": "^10.6.0",
