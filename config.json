@@ -39,8 +39,10 @@
     "status": null,
     "statusId": "alpha",
     "typeId": "connector",
+    "usage": null,
+    "usageId": "bidirectional",
     "vendorAccountURL": "https://drive.google.com/",
     "vendorDocumentationURL": "https://support.google.com/drive/",
     "vendorHomeURL": "https://workspace.google.com/products/drive/",
-    "version": "0.0.14"
+    "version": "0.0.15"
 }
