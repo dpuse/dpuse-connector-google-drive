@@ -1,10 +1,10 @@
 {
-  "version": "0.0.7",
-  "name": "@dpuse/dpuse-connector-template",
+  "version": "0.0.15",
+  "name": "@dpuse/dpuse-connector-google-drive",
   "dependencies": {
     "@dpuse/dpuse-shared": {
-      "version": "0.3.737",
-      "resolved": "https://registry.npmjs.org/@dpuse/dpuse-shared/-/dpuse-shared-0.3.737.tgz",
+      "version": "0.3.760",
+      "resolved": "https://registry.npmjs.org/@dpuse/dpuse-shared/-/dpuse-shared-0.3.760.tgz",
       "overridden": false
     }
   }
