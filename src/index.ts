@@ -139,6 +139,7 @@ export class Connector implements ConnectorInterface {
         this.abortController = new AbortController();
 
         try {
+            // eslint-disable-next-line unicorn/no-useless-promise-resolve-reject
             return await Promise.resolve({} as ReadableStream<Uint8Array>);
         } catch (error) {
             throw normalizeToError(error);
