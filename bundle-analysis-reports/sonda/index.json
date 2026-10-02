@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "0.14.0",
-    "generatedAt": "2026-09-30T15:34:22.573Z",
+    "generatedAt": "2026-10-02T10:27:51.363Z",
     "integration": "vite",
     "sources": false,
     "gzip": true,
@@ -22,7 +22,7 @@
       "type": "other",
       "format": "other",
       "uncompressed": 4032,
-      "gzip": 1290,
+      "gzip": 1291,
       "brotli": 0,
       "parent": "dist/dpuse-connector-google-drive.es.js"
     },
@@ -54,7 +54,7 @@
       "type": "script",
       "format": "esm",
       "uncompressed": 8296,
-      "gzip": 2458,
+      "gzip": 2457,
       "brotli": 0,
       "parent": "dist/dpuse-connector-google-drive.es.js"
     },
