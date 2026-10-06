@@ -1,6 +1,6 @@
 {
     "name": "@dpuse/dpuse-connector-google-drive",
-    "version": "1.0.104",
+    "version": "1.0.105",
     "private": false,
     "description": "Provides access to Google Drive account(s) for file upload and download.",
     "license": "MIT",
