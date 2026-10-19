@@ -33,6 +33,7 @@
             "maxConnectionCount": -1
         }
     },
+    "itemTypeId": "file",
     "lastUpdatedAt": null,
     "status": null,
     "statusId": "alpha",
@@ -42,5 +43,5 @@
     "vendorAccountURL": "https://drive.google.com/",
     "vendorDocumentationURL": "https://support.google.com/drive/",
     "vendorHomeURL": "https://workspace.google.com/products/drive/",
-    "version": "1.0.108"
+    "version": "1.0.109"
 }
